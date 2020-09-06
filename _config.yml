@@ -10,15 +10,15 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+# theme                  : "minimal-mistakes-jekyll"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Karan Muvvala"
 title_separator          : "-"
-subtitle                 : Building safer and smarter robots one step at a time # site tagline that appears below site title in masthead
+subtitle                 : Building safer and smarter robots one step at a time - testingf # site tagline that appears below site title in masthead
 name                     : "Karan Muvvala"
 description              : "A budding roboticist from India currently pursuing my Masters at the University of Colorado Boulder"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
